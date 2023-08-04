@@ -1,0 +1,110 @@
+Difference Hybrid and native
+------------------------------
+Native apps are developed specifically for one platform – Android or iOS. Hybrid apps are native apps but either parts or the entire application is a desktop website adapted to a web view display.
+
+web based application
+---------------------
+-> A web-based application is any program that is accessed over a network connection using HTTP, rather than existing within a device's memory. Web-based applications often run inside a web browser.
+Ex. Web applications include online forms, shopping carts, word processors, spreadsheets, video and photo editing, file conversion, file scanning, and email programs such as Gmail, Yahoo and AOL
+
+Front-end
+----------
+-> Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website
+Markup and web languages such as HTML, CSS, JavaScript, and ancillary libraries commonly used in those languages such as Sass or jQuery
+
+Back-end
+----------
+-> Scripting languages like PHP, Python, Ruby, Perl, Node.js, or Compiled languages like C#, Java or Go
+
+Frontend ------> server end ------> Backend
+|                                      |
+<-------------------------------------->
+                    X 
+
+Programming language vs scripting language
+------------------------------------------
+-> A programming language is a computer language which is used to communicate with computers using a set of instructions. A scripting language is a type of programming language that supports scripts, which are small programs mainly used to automate the execution of a specific function in a specific runtime environment.
+
+those proccess which have the requirement of execution and compilation that is called programming language.
+those proccess which have the requirement of execution that is called scripting language.
+
+demo.html -----------> output
+demo.c --------> machine code --------> output
+
+Client side script
+------------------
+-> client side scripting is a process in which scripts are executed by browsers without connecting the server.
+
+Server side script
+------------------
+-> the server-side is where the data and source code is stored.
+
+MERN Stack 
+----------
+-> MERN is a free and open-source JavaScript software stack for building dynamic web sites and web applications.
+
+MongoDB 
+-------
+-> MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information.MongoDB uses JSON-like documents with optional schemas.
+
+NodeJS
+-------
+Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications. 
+-> Engine : Google Chrome's JavaScript Engine (V8 Engine)
+
+ExpressJS
+----------
+-> Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.
+
+ReactJS
+-------
+-> React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
+
+HTML 
+----
+-> The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+
+CSS
+---
+-> CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features
+
+Full stack developer
+--------------------
+-> A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) Program a server (like using PHP, ASP, Python, or Node)
+
+Difference : C and C++
+--------------------
+-> C++ was developed as an extension of C, and both languages have almost the same syntax
+The main difference between C and C++ is that C++ support classes and objects, while C does not
+
+Difference : SQL database and NoSQL database
+---------------------------------------------
+-> SQL databases are vertically scalable, while NoSQL databases are horizontally scalable. SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores. SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON.
+
+Full stack development 
+----------------------
+-> Web based development on every instance of web app like Frontend, Backend & server end by taking base of single technology.
+
+ECMAScript 6
+------------
+-> JavaScript ES6 (also known as ECMAScript 2015 or ECMAScript 6) is the newer version of JavaScript that was introduced in 2015. ECMAScript is the standard that JavaScript programming language uses. ECMAScript provides the specification on how JavaScript programming language should work.
+
+Difference between ES5 and ES6
+------------------------------
+-> ES5 - object based object oriented programming language (function based)
+-> ES6 - class based object oriented programming language (class based)
+
+JavaScript
+------------
+-> It is a client side script used to apply dynamic changes on webpage like validation, event programming, animations etc.
+                        or 
+-> It is event based script used to perform dynamic changes on web pages, where events are activity which when performed lead to access specific functionality.
+
+DOM
+---
+-> The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree
+                        or
+-> The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+BOM in JavaScript
+-> The Browser Object Model (BOM) is a browser-specific convention referring to all the objects exposed by the web browser. The BOM allows JavaScript to “interact with” the browser. The object of window represents a browser window and all its corresponding features.

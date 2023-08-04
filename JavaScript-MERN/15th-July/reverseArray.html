@@ -1,0 +1,30 @@
+<html lang="en">
+
+<head>
+    <title>Reverse Array</title>
+</head>
+
+<body>
+    <script>
+        var arr = [1, 2, 3, 4, 5];
+        var r;
+        var len = arr.length;
+        var hLen = parseInt(arr.length/2);
+        document.write("Original array: ");
+        for (let i = 0; i <len; i++) {
+            document.write(arr[i] + " ");
+        }
+        for (let i = 0; i < len / 2; i++) {
+            r = arr[i];
+            arr[i] = arr[len - i - 1];
+            arr[len - i - 1] = r;
+        }
+        document.write("<br>After reverse array: ");
+        for (let i = 0; i < len; i++) {
+            document.write(arr[i] + " ");
+            console.log(arr[i]);
+        }
+    </script>
+</body>
+
+</html>
